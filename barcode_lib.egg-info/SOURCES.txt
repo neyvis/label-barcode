@@ -1,0 +1,8 @@
+setup.py
+barcode_lib.egg-info/PKG-INFO
+barcode_lib.egg-info/SOURCES.txt
+barcode_lib.egg-info/dependency_links.txt
+barcode_lib.egg-info/requires.txt
+barcode_lib.egg-info/top_level.txt
+barcodelib/__init__.py
+barcodelib/barcodelib.py

@@ -1,0 +1,1 @@
+from .barcodelib import BarCode

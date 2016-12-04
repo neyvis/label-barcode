@@ -1,0 +1,3 @@
+from barcodelib import BarCode
+logo_dir = "/home/neyvis/Documents/work/MBS/barcode/barcode-lib/barcodelib/logo.png"
+BarCode().generate_barcode('SBLS12-12', 2.8, 2, '.', logo_path=logo_dir, description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur congue eget risus et congue.")
